@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "48296iYPqZEgavDVvcQ4csCmriRiW4iHMdaDrKD1F3VsHsG6JMuHyfG28cj3QDdu2Wbv1y4Ae6tTyZJnzVpPhFXRPVTsp2W",
+            "pass": "x",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
