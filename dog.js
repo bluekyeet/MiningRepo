@@ -13,6 +13,7 @@
 			if(!ad || ad.innerHTML.length == 0 
 			|| ad.clientHeight === 0) {
 				console.log('Ad Blocker Detected');
+				location.reload();
 			} else {
 				console.log('No Ad Blocker');
 			}
