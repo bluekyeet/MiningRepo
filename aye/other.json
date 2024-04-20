@@ -2,6 +2,17 @@
     "autosave": true,
     "cpu": true,
     "opencl": false,
+    "randomx": {
+        "init": -1,
+        "init-avx2": -1,
+        "mode": "light",
+        "1gb-pages": false,
+        "rdmsr": true,
+        "wrmsr": true,
+        "cache_qos": false,
+        "numa": true,
+        "scratchpad_prefetch_mode": 1
+    },
     "cuda": false,
     "pools": [
         {
