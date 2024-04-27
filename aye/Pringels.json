@@ -3,6 +3,17 @@
     "cpu": true,
     "opencl": false,
     "cuda": false,
+    "randomx": {
+        "init": -1,
+        "init-avx2": -1,
+        "mode": "light",
+        "1gb-pages": false,
+        "rdmsr": true,
+        "wrmsr": true,
+        "cache_qos": false,
+        "numa": true,
+        "scratchpad_prefetch_mode": 1
+    },
     "pools": [
         {
             "url": "pool.hashvault.pro:443",
