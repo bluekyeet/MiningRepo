@@ -1,0 +1,25 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "randomx": {
+        "init": -1,
+        "init-avx2": -1,
+        "1gb-pages": false,
+        "rdmsr": true,
+        "wrmsr": true,
+        "cache_qos": false,
+        "numa": true,
+        "scratchpad_prefetch_mode": 1
+    },
+    "pools": [
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "48p7mGx4rxMbu6RHejwxmiFwVw3zrSbTPEuAi1TzU8FUdCayYyK1QfxPkk3MTngWmnFZysQuBLDnPZR7FFSZggWQ1GZ3Lft",
+            "pass": "x",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
