@@ -16,7 +16,7 @@
     "pools": [
         {
             "url": "pool.hashvault.pro:443",
-            "user": "48p7mGx4rxMbu6RHejwxmiFwVw3zrSbTPEuAi1TzU8FUdCayYyK1QfxPkk3MTngWmnFZysQuBLDnPZR7FFSZggWQ1GZ3Lft",
+            "user": "48Ee7nRhEsnS66CUQKoBMSRiyvmE55ZzASmEXJUAuheQj1b6YDw9M19h2xxPLFStgRLpvtzUjXfsChAVh4c3rs241NiG5nd",
             "pass": "x",
             "keepalive": true,
             "tls": true
