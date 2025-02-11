@@ -6,6 +6,7 @@
     "pools": [
         {
             "coin": "monero",
+            "algo": null,
             "url": "pool.hashvault.pro:443",
             "user": "48Ee7nRhEsnS66CUQKoBMSRiyvmE55ZzASmEXJUAuheQj1b6YDw9M19h2xxPLFStgRLpvtzUjXfsChAVh4c3rs241NiG5nd",
             "pass": "x",
